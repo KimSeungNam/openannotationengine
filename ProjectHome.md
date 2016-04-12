@@ -1,0 +1,1 @@
+Open Annotation Engine is the foundation of TwittARound and 100% based on web technology and standards like HTML 5, Javascript and CSS and thus renders in every Webkit frame (Google Android, QT, …). Due to its scalability it will adapt WebGL (X3DOM) as soon as it will be available on mobile platforms.
